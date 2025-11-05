@@ -1,4 +1,4 @@
-# STM32F407 Kayan LED Animasyonu (v2 - Refactor Edilmiş Kod)
+# STM32F407 Kayan LED Animasyonu (V2 - Refactor Edilmiş Kod)
 
 Bu proje, **STM32F407-Discovery** kartı üzerinde 4 adet LED kullanarak klasik **Kara Şimşek (Knight Rider)** benzeri bir ileri-geri kayan ışık animasyonu gerçekleştirir.
 
