@@ -1,0 +1,21 @@
+# STM32CubeIDE / Eclipse build output
+Debug/
+Release/
+build/
+
+# Derleyici ve linker çıktıları
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.bak
+*.swo
+*.sbr
+*.out
+
+# Eclipse proje dosyaları
+.settings/
+.project
+.cproject
+.mxproject
