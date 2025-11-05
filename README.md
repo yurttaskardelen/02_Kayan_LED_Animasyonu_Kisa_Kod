@@ -58,7 +58,8 @@ LED'lerin anot (uzun) bacakları STM32 pinlerine, katot (kısa) bacakları ise d
 
 ### Kod Bloğu
 
-<img width="662" height="793" alt="Kod_Blogu" src="https://github.com/user-attachments/assets/d375b92d-ba41-46d8-8b72-448fcf781fcc" />
+<img width="1200" height="638" alt="02" src="https://github.com/user-attachments/assets/fe69999c-2cc9-4cb1-bae5-c2f7f2cf9522" />
+
 
 ---
 
